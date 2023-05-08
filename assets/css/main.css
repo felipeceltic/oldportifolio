@@ -2065,13 +2065,11 @@ input, select, textarea {
 				-webkit-transition: opacity 0.2s ease-in-out;
 				-ms-transition: opacity 0.2s ease-in-out;
 				transition: opacity 0.2s ease-in-out;
-				border-radius: 0.35em;
-				border: solid 3px rgba(255, 255, 255, 0.5);
 				color: #fff;
 				content: 'Visitar';
 				display: inline-block;
-				font-size: 0.8em;
-				font-weight: 400;
+				font-size: 1.5em;
+				font-weight: 500;
 				left: 50%;
 				line-height: 2.25em;
 				margin: -1.25em 0 0 -3em;
